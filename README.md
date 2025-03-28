@@ -1,4 +1,4 @@
-Here are clear user stories for your KYC-based financial services platform, categorized by functionality:
+
 
 ### 1. Authentication & Registration
 **US-01: User Registration**  
@@ -108,9 +108,3 @@ To prevent identity fraud*
 *As the system,  
 I need to auto-approve low-risk KYC applications  
 To reduce manual review workload*  
-
-Would you like me to:  
-1. Add priority levels to these stories?  
-2. Include edge cases for each scenario?  
-3. Provide sample acceptance tests?  
-4. Break down any story further?
